@@ -3,7 +3,7 @@ function countdown(){
   // Time Table
   var week = {
     Mon: {
-      10: "MPMC(LSPR, CR6)",
+      10: "MPMC (LSPR, CR6)",
       11: "MATH-IV(RRP,CR6)",
       12: "EEC(SD, CR4)",
       14: "MP Lab(LSPR, PL3)"
