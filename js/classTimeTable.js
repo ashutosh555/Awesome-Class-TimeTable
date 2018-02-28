@@ -3,38 +3,38 @@ function countdown(){
   // Time Table
   var week = {
     Mon: {
+      9: "EMI(SK, CR10)",
       10: "MPMC (LSPR, CR6)",
       11: "MATH-IV(RRP,CR6)",
-      12: "EEC(SD, CR4)",
+      12: "ACS(PM, CR7)",
       14: "MP Lab(LSPR, PL3)"
     },
     Tue: {
-      9: "EM2(SU, CR 11)",
+      9: "EMI(SK, CR6)",
       10: "MATH IV(RRP,CR6)",
-      12: "EMT(VM, CR1)",
-      14: "EM-II Lab (SU, AP,  Machine Lab)"
+      12: "EMT(VM, CR1)"
     },
     Wed: {
       9: "MPMC(LSPR, CR6)",
       10: "EMT(VM, CR6)",
-      11: "EM-II(SU, CR6)",
-      12: "EEC(SD, CR6)"
+      11: "EMI(SK, CR10)",
+      12: "ACS(PM, CR7)"
     },
     Thu: {
-      9: "EEC(SD, CR2)",
-      10: "MATH-IV(RRP, CR6)"
+      9: "EMI(SK, CR11)",
+      10: "MATH-IV(RRP, CR6)",
+      11: "ACS(PM, CR4)"
     },
     Fri: {
       9: "MATH-IV(RRP,CR5)",
       10: "MPMC(LSPR,CR6)",
       11: "EMT(VM, CR3)",
-      12: "EEC(SD, CR8)",
-      14: "EM-II(SU, CR8)"
+      14: "ACS(PM, CR7)"
     },
     Sat: {
       9: "EMT(VM,CR6)",
       10: "MPMC(LSPR,CR6)",
-      11: "EM-II(SU,CR11)"
+      14: "ANALOG COMMUNICATION LAB(PM, SK ADC LAB)"
     },
     Sun: {}
   }
